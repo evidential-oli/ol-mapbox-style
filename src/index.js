@@ -31,6 +31,8 @@ import {unByKey} from 'ol/Observable.js';
 /**
  * @typedef {import("ol/Map").default} PluggableMap
  * @typedef {import("ol/layer/Layer").default} Layer
+ * @typedef {import("ol/layer/Vector").default} VectorLayer
+ * @typedef {import("ol/layer/VectorTile").default} VectorTileLayer
  * @typedef {import("ol/source/Source").default} Source
  * @private
  */
